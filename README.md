@@ -1,4 +1,6 @@
 # UsageHelpr
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/FullScreenShenanigans/UsageHelpr.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/FullScreenShenanigans/UsageHelpr.svg?branch=master)](https://travis-ci.org/FullScreenShenanigans/UsageHelpr)
 [![NPM version](https://badge.fury.io/js/usagehelpr.svg)](http://badge.fury.io/js/usagehelpr)
 
